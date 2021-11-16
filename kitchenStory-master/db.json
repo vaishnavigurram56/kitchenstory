@@ -1,0 +1,107 @@
+{
+  "users": [
+    {
+      "email": "vaishanvi@gmail.com",
+      "password": "12345678",
+      "id": 1
+    }
+  ],
+  "events": [
+    {
+      "id": 1604156565097,
+      "title": "Arab Dates",
+      "description": "Balaji",
+      "capacity": 100,
+      "region": "Delhi",
+      "imgUrl": "https://picsum.photos/id/231/200/200"
+    },
+    {
+      "id": 1604156685644,
+      "title": "Honey",
+      "description": "Dabur",
+      "capacity": 1000,
+      "region": "New Delhi, Mumbai",
+      "imgUrl": "https://picsum.photos/id/435/200/200"
+    },
+    {
+      "id": 1604156739591,
+      "title": "Sugar",
+      "description": "Balaji",
+      "capacity": 7649,
+      "region": "Delhi, Kolkata, Mumbai",
+      "imgUrl": "https://picsum.photos/id/541/200/200"
+    },
+    {
+      "id": 1604156765021,
+      "title": "Cheese",
+      "description": "Amul",
+      "capacity": 700,
+      "region": "Mumbai",
+      "imgUrl": "https://picsum.photos/id/259/200/200"
+    },
+    {
+      "id": 1636113941092,
+      "title": "butter",
+      "description": "amul",
+      "capacity": 100,
+      "region": "pune",
+      "imgUrl": "https://picsum.photos/id/902/200/200"
+    },
+    {
+      "id": 1636209860151,
+      "title": "maggi",
+      "description": "nestle",
+      "capacity": 100,
+      "region": "Jodhpur",
+      "imgUrl": "https://picsum.photos/id/840/200/200"
+    },
+    {
+      "id": 1636255927429,
+      "title": "knoor soup",
+      "description": "Nestle",
+      "capacity": 200,
+      "region": "Amaravati",
+      "imgUrl": "https://picsum.photos/id/918/200/200"
+    },
+    {
+      "id": 1636256022291,
+      "title": "Parle-G",
+      "description": "Parle",
+      "capacity": 100,
+      "region": "Pune",
+      "imgUrl": "https://picsum.photos/id/627/200/200"
+    },
+    {
+      "id": 1636256205245,
+      "title": "Unibic Cookies",
+      "description": "Britannia",
+      "capacity": 100,
+      "region": "Delhi",
+      "imgUrl": "https://picsum.photos/id/948/200/200"
+    },
+    {
+      "id": 1636256240396,
+      "title": "Yoghurt",
+      "description": "Amul",
+      "capacity": 100,
+      "region": "Mysore",
+      "imgUrl": "https://picsum.photos/id/780/200/200"
+    },
+    {
+      "id": 1636256335649,
+      "title": "Milk",
+      "description": "Amul",
+      "capacity": 100,
+      "region": "Asaam",
+      "imgUrl": "https://picsum.photos/id/804/200/200"
+    },
+    {
+      "id": 1636256389303,
+      "title": "Chocolates",
+      "description": "Britannia",
+      "capacity": 300,
+      "region": "Delhi",
+      "imgUrl": "https://picsum.photos/id/924/200/200"
+    }
+  ]
+}

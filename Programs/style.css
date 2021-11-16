@@ -1,0 +1,98 @@
+.navbar-brand {
+    border: bisque;
+    
+  }
+
+
+#header-nav{
+  background-color: #f6b319;
+  border-radius: 0;
+  border: 0;
+
+  padding-left: 80px;
+
+  padding-top: 30px;
+  padding-bottom: 30px;
+
+}
+
+.nav-item{
+    padding-left:50px ;
+    font-size: 20px; 
+}
+
+.nav-link{
+  padding-left: 100px;
+}
+
+#About{
+  text-align: center;
+  font-size: large;
+  
+  padding-top:30px;
+  padding-bottom:30px;
+}
+
+.container-fluid{
+  
+  padding-left: 50px;
+  padding-bottom: 100px;
+  background-color: burlywood;
+}
+
+.footer{
+  background-color: coral;
+}
+
+#Contact{
+  text-align: center;
+  font-size: large;
+  
+  padding-top:30px;
+  padding-bottom:30px;
+}
+
+#image{
+  height:auto;
+  width:auto;
+
+}
+  
+#title{
+  text-align: left;
+  padding-left: 100px;
+  padding-top:30px;
+  font-size: 30px;
+  font-style: italic;
+}
+
+#intro{
+  padding-top : 30px;
+
+  font-size: medium;
+
+ 
+}
+.card{
+  background-color:khaki;
+
+
+  
+
+}
+
+#Course{
+  text-align: center;
+  font-size: large;
+  
+  padding-top:30px;
+  padding-bottom:30px;
+
+  
+}
+
+.btn-link{
+  font-size: 20px;
+  color: black;
+}
+
